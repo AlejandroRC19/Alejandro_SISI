@@ -1,0 +1,5 @@
+-patatas
+-carne
+-agua
+-pasta
+-melocoton
