@@ -1,0 +1,22 @@
+#cuerpocompleto
+{
+    background-color: brown;
+    height:100%;
+    width:100%;
+}
+#texto
+{
+    margin-bottom:-5px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
+    background-color: rgb(124, 134, 134);
+    text-align:justify;
+}
+#imagenes
+{
+    padding-top:10px;
+    padding-left:10px;
+    margin-right:5px;
+    padding-bottom:5px;
+}
