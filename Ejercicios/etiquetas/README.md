@@ -1,1 +1,1 @@
-#Dias de la semana: Lunes, Martes, Jueves, Miercoles, DOmingo, Sabado
+#Dias de la semana: Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Domingo
